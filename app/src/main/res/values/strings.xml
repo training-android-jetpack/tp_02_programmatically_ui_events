@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">TP02AndroidProgrammaticallyUIEvents</string>
+    <string name="app_name">TP Android 1</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="formation">Formation</string>
+    <string name="marriageStatus">Marital Status</string>
+    <string name="country">Country</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="italian">Italian</string>
+    <string name="spanish">Spanish</string>
+    <string name="married">Married</string>
+    <string name="single">Single</string>
+    <string name="divorced">Divorced</string>
+    <string name="widowner">Widowner</string>
+    <string-array name="countries">
+        <item name="france" >France</item>
+        <item name="england" >England</item>
+        <item name="italy" >Italy</item>
+        <item name="spain" >Spain</item>
+    </string-array>
 </resources>
